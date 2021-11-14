@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1093111052493",
+    "project_id": "cropzo",
+    "storage_bucket": "cropzo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093111052493:android:ae852996beb5de66015184",
+        "android_client_info": {
+          "package_name": "com.example.cropzo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093111052493-94r12rdour99knn8pv79eh0htn9459ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7VomKeBUO1gxkMz-6r8-heV1dTAhSQGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093111052493-94r12rdour99knn8pv79eh0htn9459ts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
