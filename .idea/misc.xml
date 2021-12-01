@@ -4,9 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/heera/AndroidStudioProjects/Cropzo/app/src/main/res/drawable/ic_home_background.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/heera/AndroidStudioProjects/Cropzo/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
         <entry key="..\:/Users/heera/AndroidStudioProjects/Cropzo/app/src/main/res/layout/activity_main.xml" value="0.10144927536231885" />
         <entry key="..\:/Users/heera/AndroidStudioProjects/Cropzo/app/src/main/res/layout/activity_registration.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/heera/AndroidStudioProjects/Cropzo/app/src/main/res/layout/fragment_category.xml" value="0.1796875" />
+        <entry key="..\:/Users/heera/AndroidStudioProjects/Cropzo/app/src/main/res/layout/fragment_home.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/heera/AndroidStudioProjects/Cropzo/app/src/main/res/layout/fragment_profile.xml" value="0.165625" />
         <entry key="..\:/Users/heera/AndroidStudioProjects/Cropzo/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/heera/AndroidStudioProjects/Cropzo/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
       </map>
     </option>
   </component>
